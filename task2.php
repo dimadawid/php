@@ -1,6 +1,6 @@
 <?php
 
-$number = (string) readline('Ведите номер машины формата 7777 AB-7,7777AB-7: ');
+$number = (string) readline('Ведите номер машины формата 7777 AB-7, 7777AB-7: ');
 
 function numberAV($number)
 {
